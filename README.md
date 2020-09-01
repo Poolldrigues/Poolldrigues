@@ -26,53 +26,67 @@ I'm Paulo and this is some things about me.
 - Currently learning:
 
 <div>
-	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 		 	3px;"  src="https://i.ibb.co/M7Xr29N/html-5.png" alt="html-5" width="20"/>  		<b>HTML</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 		 	3px;"  src="https://i.ibb.co/M7Xr29N/html-5.png" alt="html-5" width="20"/> <b>HTML</b>
+
 </div>
 
 <div>
-	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/N3VZZVf/css.png" alt="css"  width="20"/>  		<b>CSS</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/N3VZZVf/css.png" alt="css"  width="20"/> <b>CSS</b>
+
 </div>
 
 
 <div>
-<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/mRHpshM/javascript.png" alt="javascript"  width="20"/>  <b>JavaScript</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/mRHpshM/javascript.png" alt="javascript"  width="20"/> <b>JavaScript</b>
+
 </div>
 
 <div>
-	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/Sxc1yj7/php.png" alt="php"  width="20"/>  <b>PHP</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/Sxc1yj7/php.png" alt="php"  width="20"/> <b>PHP</b>
+
 </div>
 
 <div>
-	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/DkN7DMS/sql.png" alt="sql"  width="20"/>  <b>SQL</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/DkN7DMS/sql.png" alt="sql"  width="20"/> <b>SQL</b>
+
 </div>
 
 
-<br  />
+<br/>
 
 - Tools
 
 <div>
-<img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/Bn9kNXd/Vscode.png"  alt="Vscode" width="20"/> <b>vsCode</b
+
+<img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/Bn9kNXd/Vscode.png"  alt="Vscode" width="20"/> <b>vsCode</b>
+ 
 </div>
 
 <div>
-<img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/315m52J/netbeans.jpg" alt="netbeans" width="30"/><b>Netbeans</b
+
+<img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/315m52J/netbeans.jpg" alt="netbeans" width="30"/> <b>Netbeans</b>
+
 </div>
 
 <div>
-	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/7pD5m9f/mysql.png" alt="mysql"  width="20"/>  <b>MySQL</b>
+
+<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/7pD5m9f/mysql.png" alt="mysql"  width="20"/>  <b>MySQL</b>
+
 </div>
+
 <div>
 	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/VNwkq98/1458791372git.webp"  alt="GIT"  width="20"/>  <b>Git</b>
+	
 </div>
-
-
- 
 
 - Intend to learn:
 
   
-
 <div>
 
 <img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://cdn.freebiesupply.com/logos/thumbs/2x/dart-logo.png"  width="30"/>  <b>Dart</b>
@@ -85,7 +99,7 @@ I'm Paulo and this is some things about me.
 
 </div>
 
-<br  />
+<br/>
 
   
 
