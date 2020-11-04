@@ -83,9 +83,11 @@ I'm Paulo and this is some things about me.
 	<img  style="margin-left: 4px; margin-right: 8px; border-radius: 3px;"  src="https://i.ibb.co/VNwkq98/1458791372git.webp"  alt="GIT"  width="20"/>  <b>Git</b>
 	
 </div>
-
+<br/>
+<br/>
 - Intend to learn:
-
+<br/>
+<br/>
   
 <div>
 
